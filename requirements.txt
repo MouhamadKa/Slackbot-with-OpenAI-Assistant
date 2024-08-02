@@ -1,0 +1,7 @@
+slackclient == 2.9.4
+slackeventsapi == 3.0.2
+
+python-dotenv == 1.0.1
+flask == 3.0.3
+
+openai == 1.37.1
